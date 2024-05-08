@@ -1,8 +1,8 @@
 # Beauty_of_Error_Correction_DM_Project
 
-Project Info : Error Correction : To share a Collective and Precise Information on Error Detection and Error Correction.
+Project : **Error Correction Codes** : To share a Collective and Precise Information on Error Detection and Error Correction.
 
-Project Done by : Nishant Italiya, Smit Godhani, Jish Chanchapara, Aman Mangukiya, Vraj Dobariya, Dhriti Goenka
+Project done by : Nishant Italiya, Smit Godhani, Jish Chanchapara, Aman Mangukiya, Vraj Dobariya, Dhriti Goenka
 
 Project assigned by : Prof. Manish K Gupta, Prof. Manoj Raut, Prof. Prosenjit Kundu
 
